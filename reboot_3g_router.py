@@ -2,12 +2,12 @@ import requests
 
 router_ip = "192.168.1.1"
 headers = {	"Accept-Language": "en-US,en;q=0.5",
-			"Accept-Encoding": "gzip, deflate", 
-			"Referer": "http://192.168.1.1/html/home.htm", 
-			"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", 
-			"X-Requested-With": "XMLHttpRequest", 
-			"Content-Length": "112", 
-			"Connection": "close"
+		"Accept-Encoding": "gzip, deflate", 
+		"Referer": "http://192.168.1.1/html/home.htm", 
+		"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", 
+		"X-Requested-With": "XMLHttpRequest", 
+		"Content-Length": "112", 
+		"Connection": "close"
 }
 
 sess = requests.Session()
