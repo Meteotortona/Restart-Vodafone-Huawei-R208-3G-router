@@ -1,4 +1,4 @@
-# Restart-Vodafone-Huawei-R208-3G-router
+# Restart Vodafone Huawei R208 3G router
 
 Script per il riavvio automatizzato del router 3G Vodafone Huawei R208.
 
