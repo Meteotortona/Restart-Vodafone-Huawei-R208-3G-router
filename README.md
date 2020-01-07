@@ -14,4 +14,4 @@ python reboot_3g_router.py
 
 È possibile schedulare l'esecuzione dello script mediante crontab Linux o Scheduled Task Windows.
 
-Per ulteriori informazioni contattaci https://www.meteotortona.it/link/contatti.php
+Per ulteriori informazioni [contattaci](https://www.meteotortona.it/link/contatti.php)
